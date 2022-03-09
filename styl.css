@@ -13,6 +13,7 @@ body{
     border-right: solid 5px rgba(0, 22, 22, 0.4);
     line-height: 50px;
     position: fixed;
+    overflow: scroll;
   }
   
   .father{
